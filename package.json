@@ -1,0 +1,20 @@
+{
+  "name": "generate_random",
+  "version": "1.0.0",
+  "description": "Generate all things random. Numbers, strings, arrays, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "random",
+    "numbers",
+    "strings",
+    "arrays"
+  ],
+  "author": "Greybph",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
